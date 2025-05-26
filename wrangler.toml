@@ -1,0 +1,5 @@
+name = "cors-proxy"
+type = "javascript"
+workers_dev = true
+compatibility_date = "2024-05-01"
+main = "src/index.js"
